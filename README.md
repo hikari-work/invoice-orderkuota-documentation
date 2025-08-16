@@ -409,4 +409,4 @@ The system sends POST requests to your configured callback URL when invoice stat
 
 ## 📞 Support
 
-For additional support and configuration assistance, please refer to the official OrderKuota documentation or contact the development team.
+For additional support and configuration assistance, please refer to the official dev @viandrabs
